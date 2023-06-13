@@ -14,3 +14,7 @@ favor of boosting your ball faster.
 Some pins do not allow to configure Pull up resistors or work only as output. Don't use them.
 
 ![Layout](doc/Verdrahtung_Steckplatine.png) 
+
+## Arduino IDE Setup
+- FASTLED Libary
+- ESP32DEV Modul
